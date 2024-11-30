@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LxOdkNtKX830aE21HIwnAChk+5o0sZRxMWzRjSuExfA=",
+  "Source": "FirstMicroservice.Ocelot.Getway",
+  "BasePath": "_content/FirstMicroservice.Ocelot.Getway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

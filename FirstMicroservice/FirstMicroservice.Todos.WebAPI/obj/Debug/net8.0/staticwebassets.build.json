@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oFab/0TtyXZEOfZJ8xoL5X3ipSIvpHqXpqCDos3UK7M=",
+  "Source": "FirstMicroservice.Todos.WebAPI",
+  "BasePath": "_content/FirstMicroservice.Todos.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
